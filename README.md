@@ -19,7 +19,7 @@ and I love video games in particular the Zelda series
 - **Email:**  alessandrobachechi13@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/alessandro-bachechi-a798032b3/
 - **Twitter:** https://twitter.com/alebachechi
-- **Instagram:** ale_backup13
+- **Instagram:** https://www.instagram.com/ale_backup13/
 
 ## 🌱 I’m Currently Learning
 
