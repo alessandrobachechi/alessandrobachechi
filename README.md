@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro Bachechi👋
 
-I'm a junior web developer currently studying at Mohole. I'm passionate about creating coding, web applications using HTML5, CSS3, and JavaScript.
+I'm a junior web developer currently studying at Mohole. I'm passionate about coding, web applications using HTML5, CSS3, and JavaScript.
 I'm always eager to learn new technologies and improve my skills in web development 
 and I love video games in particular the Zelda series
 
