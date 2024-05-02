@@ -17,7 +17,7 @@ and I love video games in particular the Zelda series
 ## 📫 How to Reach Me
 
 - **Email:**  alessandrobachechi13@gmail.com
-- **LinkedIn:** alessandrobachechi
+- **LinkedIn:** https://www.linkedin.com/in/alessandro-bachechi-a798032b3/
 - **Twitter:** alebachechi
 - **Instagram:** ale_backup13
 
