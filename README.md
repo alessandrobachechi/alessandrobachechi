@@ -7,7 +7,6 @@ and I love video games in particular the Zelda series
 ## 🚀 About Me
 
 - 🎓 I'm currently studing in Mohole Academy Milan.
-- 🌱 I’m currently learning react.
 
 ## 🛠️ Skills
 
